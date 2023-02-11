@@ -4,4 +4,4 @@ A simple python neural network for handwritten digits recognition trained with M
 
 ## How to run
 
-`python3 main.py`
+`$ python3 main.py`
